@@ -94,7 +94,8 @@ Representation 2: Selected Atoms: chain B, Coloring Method: ColorID (4), and Dra
 9. Edit this README.md file to post your rendered structure of the protein below. Your rendered image should not look exactly like mine, and I instead encourage you to turn in a more creative looking image. Repeat this exercise above with the PDB ID 1kf1 and turn in a rendered image of the RNA below.
 
 
-VMD Rendered Protein (PDB ID: 2KWF) Image here:
+VMD Rendered Protein (PDB ID: 2KWF) Image here: ![Screenshot 2024-09-26 at 1 39 40 PM](https://github.com/user-attachments/assets/9ec27161-9466-4a37-9c08-bdf4c447d090)
+
 
 
 VMD Rendered RNA (PDB ID: 1KF1) Image here:
